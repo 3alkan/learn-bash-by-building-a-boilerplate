@@ -218,3 +218,4 @@ clear
 find -name background.jpg
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons/
+find .

@@ -174,3 +174,4 @@ ls --color=auto -a
 find .
 cd client/
 mkdir assets
+cd assets/

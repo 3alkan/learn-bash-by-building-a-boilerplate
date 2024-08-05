@@ -110,3 +110,4 @@ touch header.png
 touch footer.jpg
 footer.jpeg
 touch footer.jpeg
+ls --color=auto -a

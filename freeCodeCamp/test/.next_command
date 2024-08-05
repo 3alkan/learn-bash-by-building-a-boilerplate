@@ -111,3 +111,6 @@ touch footer.jpg
 footer.jpeg
 touch footer.jpeg
 ls --color=auto -a
+rm footer.jpg
+ls --color=auto -a
+touch roboto.font

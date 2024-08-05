@@ -58,3 +58,4 @@ ls --color=auto
 cd freeCodeCamp/
 clear
 pwd
+ls --color=auto

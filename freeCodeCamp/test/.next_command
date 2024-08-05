@@ -59,3 +59,5 @@ cd freeCodeCamp/
 clear
 pwd
 ls --color=auto
+cd tesst
+cd test

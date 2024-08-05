@@ -186,3 +186,5 @@ cd client/assets/images/
 cd ../../..
 cd images/
 ls --color=auto
+mv background.jpg footer.jpeg header.png ..
+mv header.png ..

@@ -63,3 +63,4 @@ cd tesst
 cd test
 pwd
 ls --color=auto
+cd ..

@@ -200,3 +200,6 @@ mv footer.jpeg ./client/assets/images/
 mv ./images/footer.jpeg ./client/assets/images/
 __vsc_prompt_cmd_original
 find .
+ls --color=auto
+mv background.jpg ./client/assets/images/
+rmdir images/

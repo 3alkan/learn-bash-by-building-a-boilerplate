@@ -168,3 +168,7 @@ find --help
 find -name index.html
 find -name styles.css
 find -name src
+find website
+ls --color=auto
+ls --color=auto -a
+find .
